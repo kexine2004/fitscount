@@ -1,0 +1,14 @@
+We are looking for a skilled Frontend / Full-Stack Developer to join our product team. 
+
+The ideal candidate must have strong proficiency in JavaScript, React.js, and modern CSS frameworks like Tailwind or Bootstrap. Experience with Node.js and REST API development is required. Familiarity with databases (SQL or MongoDB) is a strong plus.
+
+We value candidates who have built and deployed real-world web applications, contributed to open-source projects, or have internship experience in a software product company. Good communication skills and the ability to collaborate in an agile team are essential.
+
+Minimum requirements:
+- Strong JavaScript and React fundamentals
+- Experience building responsive, accessible UIs
+- REST API integration experience
+- Version control with Git
+- Bonus: TypeScript, Next.js, Docker, CI/CD knowledge
+- GPA 7.5+ preferred
+- At least 1 internship in a product/software company
